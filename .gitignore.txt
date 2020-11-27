@@ -1,4 +1,0 @@
-dec.bin
-my.txt
-output.txt
-test.py
